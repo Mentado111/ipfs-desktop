@@ -81,7 +81,7 @@
     "i18next-fs-backend": "1.1.4",
     "i18next-icu": "^2.0.3",
     "intl-messageformat": "^9.13.0",
-    "ipfs-http-client": "56.0.2",
+    "ipfs-http-client": "56.0.3",
     "ipfs-utils": "^9.0.10",
     "ipfsd-ctl": "10.0.6",
     "it-last": "^1.0.6",
